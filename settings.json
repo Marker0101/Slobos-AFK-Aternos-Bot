@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NigarMan",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "PassoverWar.aternos.me",
     "port": 62439,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
